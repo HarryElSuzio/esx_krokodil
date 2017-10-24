@@ -4,7 +4,7 @@
 
 [REQUIREMENTS]
 
-esx_policejob => https://github.com/ESX-Org/esx_drugs
+esx_policejob => https://github.com/ESX-Org/esx_policejob
 
 
 Import ``esx_kroko.sql`` in your database
