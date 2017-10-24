@@ -16,4 +16,4 @@ Add this in your server.cfg :
 
 Change coordinates in ``Config.lua``
 
-Commente with "--" disable ``MarkerColor``
+Commente "--" disable ``MarkerColor``
